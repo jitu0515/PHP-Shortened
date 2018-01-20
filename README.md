@@ -15,3 +15,6 @@ shortened(varchar(255))
 Now download the files and put into your local server,
 and edit database.php(shortened_link/application/config/database.php) file,
 and change your database username(), password and put your database name as well.
+
+-----------------------------------------------------------------------------
+<b>Find the redirect.sql file with the attachment</b>
